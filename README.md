@@ -2,7 +2,7 @@
 
 Solutions Consultant at [Maikaza](https://maikaza.com), working from Mauritius. I connect the software a business already runs on, so data stops being typed twice and work stops falling through the gaps.
 
-[Website](https://yinkaaderibigbe.pages.dev) · [LinkedIn](https://www.linkedin.com/in/yinkaadx) · [Research](https://yinkaadx.github.io) · [ORCID](https://orcid.org/0009-0000-1726-5564)
+[Website](https://yinkaaderibigbe.com) · [LinkedIn](https://www.linkedin.com/in/yinkaadx) · [Research](https://yinkaadx.github.io) · [ORCID](https://orcid.org/0009-0000-1726-5564)
 
 ## Code you can run
 
