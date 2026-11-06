@@ -1,6 +1,8 @@
 # Yinka Aderibigbe
 
-Solutions Consultant at [Maikaza](https://maikaza.com), working from Mauritius. I connect the software a business already runs on, so data stops being typed twice and work stops falling through the gaps.
+Independent technology consultant, working from Mauritius: software, data, app, AI and automation development, and other IT work. I connect the software a business already runs on, so data stops being typed twice and work stops falling through the gaps.
+
+[See my portfolio](https://yinkaaderibigbe.com/portfolio/): eight builds up close and the full 2026 record.
 
 [Website](https://yinkaaderibigbe.com) · [LinkedIn](https://www.linkedin.com/in/yinkaadx) · [Research](https://yinkaadx.github.io) · [ORCID](https://orcid.org/0009-0000-1726-5564)
 
@@ -19,8 +21,8 @@ Client work stays private, so I publish my own tools in the open, each with its 
 | [gemini-notes-pipeline](https://github.com/yinkaadx/gemini-notes-pipeline) | A hardened Google Apps Script pipeline with a processed ledger, backoff and a circuit breaker | 11 |
 | **Total** | | **128** |
 
-Check counts read from each repository on 27 September 2026, as listed at [maikaza.com/proof](https://maikaza.com/proof).
+Check counts read from each repository on 27 September 2026.
 
 ## Get in touch
 
-Email [admin@maikaza.com](mailto:admin@maikaza.com) or [book a 20 minute call](https://calendar.google.com/calendar/appointments/schedules/AcZssZ247JifJKRivqUtXZN11i2jq-h4P8rS1hni7yS84g_CMa-dj3NFEMfWfNMKaph57HxZ3I_i-E6h).
+Email [contact@yinkaaderibigbe.com](mailto:contact@yinkaaderibigbe.com) or [book a 20 minute call](https://calendar.google.com/calendar/appointments/schedules/AcZssZ247JifJKRivqUtXZN11i2jq-h4P8rS1hni7yS84g_CMa-dj3NFEMfWfNMKaph57HxZ3I_i-E6h).
